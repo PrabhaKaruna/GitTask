@@ -27,6 +27,17 @@ package org.cts;
 			 
 		}
 		
+		public void newMethod1() {
+			// TODO Auto-generated method stub
+
+		}public void newMethod2() {
+			// TODO Auto-generated method stub
+
+		}public void newMethod3() {
+			// TODO Auto-generated method stub
+
+		}
+		
 		
 		 
 		 
