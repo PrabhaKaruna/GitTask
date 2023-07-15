@@ -46,11 +46,6 @@ package org.cts;
     	private void testData() {
 			// TODO Auto-generated method stub
 
-		}private void inputData() {
-			// TODO Auto-generated method stub
-
-		}private void outputData() {
-			// TODO Auto-generated method stub
 		}private void newMethod6() {
 			// TODO Auto-generated method stub
       
