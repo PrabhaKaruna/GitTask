@@ -27,21 +27,29 @@ package org.cts;
 			 
 		}
 		
-		public void newMethod1() {
+		private void newMethod1() {
 			// TODO Auto-generated method stub
 
-		}public void newMethod2() {
+		}private void newMethod2() {
 			// TODO Auto-generated method stub
 
-		}public void newMethod3() {
+		}private void newMethod3() {
 			// TODO Auto-generated method stub
-
+      
 		}public void newMethod4() {
 			// TODO Auto-generated method stub
-
 		}
+		
 		public void newMethod5() {
 			// TODO Auto-generated method stub
                 }
+    	private void testData() {
+			// TODO Auto-generated method stub
+
+		}private void inputData() {
+			// TODO Auto-generated method stub
+
+		}private void outputData() {
+			// TODO Auto-generated method stub
 		}
 }
